@@ -1,5 +1,7 @@
-### npm-bench
-# Simple benchmark on npm install. Dual boot Dell XPS 15 9550 (Windows 10 Pro / Manjaro)
+## npm-bench
+
+# Simple benchmark on npm install
+# Dual boot Dell XPS 15 9550 (Windows 10 Pro / Manjaro)
 
 ```
 goos: windows
